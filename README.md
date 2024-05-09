@@ -75,9 +75,12 @@ message.mesg_text);
 msgctl(msgid, IPC_RMID, NULL);
 return 0;
 }
-
 ```
-## OUTPUT
-<img width="424" alt="ex04" src="https://github.com/jayaseelan2006/Linux-IPC-Message-Queues/assets/151389443/58c8d14b-032a-495f-b682-3a0bfae5848a
+
+## OUTPUT:
+
+<img width="424" alt="ex04" src="https://github.com/jayaseelan2006/Linux-IPC-Message-Queues/assets/151389443/23c3541f-3a71-45e5-9a81-74d038565202">
+
+
 # RESULT:
 The programs are executed successfully.
